@@ -1,0 +1,41 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1789855401485,
+      "tag": "0000_narrow_speed_demon",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1789857569320,
+      "tag": "0001_modern_supreme_intelligence",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1789921252575,
+      "tag": "0002_bouncy_winter_soldier",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1789926602984,
+      "tag": "0003_dapper_thanos",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "7",
+      "when": 1789928239893,
+      "tag": "0004_sparkling_moon_knight",
+      "breakpoints": true
+    }
+  ]
+}
